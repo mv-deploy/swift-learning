@@ -23,9 +23,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		50371BF52DFC0BE200A4AA8F /* 1.5.2_volgin */ = {
+		50371BF52DFC0BE200A4AA8F /* 1.6.2_volgin */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 1.5.2_volgin;
+			path = 1.6.2_volgin;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		50371BEA2DFC0BE200A4AA8F = {
 			isa = PBXGroup;
 			children = (
-				50371BF52DFC0BE200A4AA8F /* 1.5.2_volgin */,
+				50371BF52DFC0BE200A4AA8F /* 1.6.2_volgin */,
 				50371BF42DFC0BE200A4AA8F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,7 +73,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				50371BF52DFC0BE200A4AA8F /* 1.5.2_volgin */,
+				50371BF52DFC0BE200A4AA8F /* 1.6.2_volgin */,
 			);
 			name = 1.5.2_volgin;
 			packageProductDependencies = (
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 50371BEE2DFC0BE200A4AA8F /* Build configuration list for PBXProject "1.5.2_volgin" */;
+			buildConfigurationList = 50371BEE2DFC0BE200A4AA8F /* Build configuration list for PBXProject "1.6.2_volgin" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -266,7 +266,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50371BEE2DFC0BE200A4AA8F /* Build configuration list for PBXProject "1.5.2_volgin" */ = {
+		50371BEE2DFC0BE200A4AA8F /* Build configuration list for PBXProject "1.6.2_volgin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50371BF82DFC0BE200A4AA8F /* Debug */,
